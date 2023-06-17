@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "266a5883f8af8eab",
+        "id": "45a18e1cca0036f3",
         "type": "tabs",
         "children": [
           {
-            "id": "336f6e02d258c02b",
+            "id": "871bcb473370d3b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logs/day2.md",
+                "file": "logs/day1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logs/day2.md",
+                "file": "logs/day1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logs/day2.md",
+                "file": "logs/day1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logs/day2.md"
+                "file": "logs/day1.md"
               }
             }
           }
@@ -147,12 +147,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5a9570a008154e4c",
+  "active": "871bcb473370d3b5",
   "lastOpenFiles": [
+    "logs/day2.md",
     "code/LearningLessonServiceImpl.java",
     "code",
     "logs/day1.md",
-    "logs/day2.md",
     "doc/接口分析.md",
     "doc",
     "logs"
