@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logs/day1.md",
+                "file": "logs/day3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logs/day1.md",
+                "file": "logs/day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logs/day1.md",
+                "file": "logs/day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logs/day1.md"
+                "file": "logs/day3.md"
               }
             }
           }
@@ -149,10 +149,13 @@
   },
   "active": "871bcb473370d3b5",
   "lastOpenFiles": [
+    "168683903153624.png",
+    "img",
     "logs/day2.md",
+    "logs/day1.md",
+    "logs/day3.md",
     "code/LearningLessonServiceImpl.java",
     "code",
-    "logs/day1.md",
     "doc/接口分析.md",
     "doc",
     "logs"
